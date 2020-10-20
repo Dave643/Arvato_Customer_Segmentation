@@ -30,25 +30,25 @@ This project has a Kaggle competition that gives an oppotunity to measure how I 
 
 ### Datasets
 
-* Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
+* `Udacity_AZDIAS_052018.csv`: Demographics data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
 
-* Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
+* `Udacity_CUSTOMERS_052018.csv`: Demographics data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
 
-* Udacity_MAILOUT_052018_TRAIN.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns).
+* `Udacity_MAILOUT_052018_TRAIN.csv`: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns).
 
-* Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
+* `Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
 
-* DIAS Attributes - Values 2017.xlsx: is a detailed mapping of data values for each feature in alphabetical order.
+* `DIAS Attributes - Values 2017.xlsx`: is a detailed mapping of data values for each feature in alphabetical order.
 
 #### Created by me:
 
-* Arvato Project Workbook.ipynb: notebook where the population and customer data are exploered to gain familiarity with the data.
+* `Arvato Project Workbook.ipynb`: notebook where the population and customer data are exploered to gain familiarity with the data.
 
-* Unsupervised Learning.ipynb: notebook where I use the unsupervised learning techniques to cluster the data to segment was portion of the population data fit our current customer data.
+* `Unsupervised Learning.ipynb`: notebook where I use the unsupervised learning techniques to cluster the data to segment was portion of the population data fit our current customer data.
 
-* Supervised Learning Model.ipynb: where I create the model that predicts the labels for the test data.
+* `Supervised Learning Model.ipynb`: where I create the model that predicts the labels for the test data.
 
-* Capstone Project Report.pdf: this report documents the work done for the completion of this project.
+* `Capstone Project Report.pdf`: this report documents the work done for the completion of this project.
 
 ### Instructions
 
