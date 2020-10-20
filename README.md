@@ -47,6 +47,8 @@ This project provided by Arvato Financial Solutions was one of the available cap
 
 * Supervised Learning Model.ipynb: where I create the model that predicts the labels for the test data.
 
+* Capstone Project Report.pdf: this report documents the work done for the completion of this project.
+
 ### Instructions
 
 The datasets available in this project is proprietary and as such cannot be share without the authorisation of Arvato.
