@@ -1,6 +1,9 @@
 # Arvato_Customer_Segmentation
 ## Capstone Project: Arvato: Customer Segmentation and Prediction
 
+###Publicaions:
+[1] https://medium.com/@davidkimani1/customer-segmentation-marketing-customer-mailout-campaign-target-61ffdc82be64
+
 ### Installation
 
 Besides the libraries included in the Anaconda distribution for Python 3.6 the following libraries have been included in this project:
