@@ -1,7 +1,7 @@
 # Arvato_Customer_Segmentation
 ## Capstone Project: Arvato: Customer Segmentation and Prediction
 
-###Publicaions:
+### Publicaions:
 
 [1] https://medium.com/@davidkimani1/customer-segmentation-marketing-customer-mailout-campaign-target-61ffdc82be64
 
